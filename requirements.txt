@@ -1,0 +1,17 @@
+# Core dependencies
+numpy==1.23.5
+pandas==1.5.2
+torch==2.0.1
+transformers==4.25.1
+datasets==2.9.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.3
+
+# API dependencies
+Flask==2.2.2
+
+# Logging and monitoring
+logging==0.5.1.2
+
+# Optional (for development/testing)
+pytest==7.2.1
